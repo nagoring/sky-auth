@@ -1,0 +1,16 @@
+{
+    "name": "nagomi/sky-auth",
+    "type": "library",
+    "authors": [
+        {
+            "name": "nagomi",
+            "email": "nagomi.github@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nagomi\\": "src/"
+        }
+    },
+    "require": {}
+}
