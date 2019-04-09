@@ -1,6 +1,7 @@
 {
     "name": "nagomi/sky-auth",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "nagomi",
